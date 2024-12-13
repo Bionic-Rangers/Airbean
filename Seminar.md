@@ -56,4 +56,43 @@ Vi lär oss inte det vi behöver kunna för yrket.
 Vi vet inte om koden är fungerande och gör det den skall.
 Vi kan lära oss fel och kan inte avgöra om koden är relevant och up-to-date. Koden kan vara fel.
 
-## 11
+## 11 
+Styrka är: 
+- att Github Copilot är inbyggd i VS Code utan att man behöva använda andra ressourcer.
+- Ger förslag och fixa bugger. Sen förklara den också koden och lägga till kommentar.
+- Omvandla olika programmeringsspråk.
+Risker:
+  - På grund av att den inte är färdigutvecklat, finns det risk att den ger fel förslag.
+  - Att man litar på förslagen på grund av brist på tid
+  - Att som nybörjare kommer inte att lära sig grundarna i språket och därmed bara litar på Copilots förslag.
+
+## 12 
+Som studerande bör man stänga av Copilots autofill, men uttnytja bug fix funktionen samt kod förklaring
+
+## 13 
+Bug fixning, kodförklaring och omvandling av språk.
+
+## 14 
+Det finns inte 100% risk för AI att ta över men vi behöver att anpassa oss och lära oss att använda AI på rätt sät som verktyg, inte ersättare. 
+
+## 15
+Det finns risk att offentliggöra kondfidentiellt material som kan användas/uttnytjas av andra konkurenter.
+
+## 16
+Adobe illustrator text-to-vector graphic:
+- Man skriver text och den konvetera det till vector grafik
+- Man skriver en enkel beskrivning för att generera skalbara, aanpassningsbara scener och ikoner.
+
+Figma Generate:
+- Man mata in text och den genererar en mall
+- Snabb och effektiv för att komma igång 
+
+ChatGPT:
+- Användas för att ge kod förslag, fixa bugger och förklara kodeksempel.
+- Den håller på att utveckla sig i takt med användning.
+- Man kan inte lita 100% på utmatningen på grund av att ständigt utveckla sig.
+
+## 17
+- ChatGPT, på grund av att den har ett hav av funktioner och förslag om olika emne, inte bara kod.
+- Den är lätt tillgänglig och om man fördrar att tal, kan man använda mikrofonikonen istället som alternativ.
+- Ju mer man använda den, desto intelligentare blir det och därmed få en mer effektiv upplevelse.
